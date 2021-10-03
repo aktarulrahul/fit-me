@@ -1,0 +1,24 @@
+.fitme-menu-item {
+  list-style: none;
+  margin-right: 20px;
+  font-size: 22px;
+  text-decoration: none;
+  color: #00bfa6;
+}
+
+.fitme-band {
+  text-decoration: none;
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  background-color: #00bfa6;
+  padding: 20px 40px;
+}
+
+.fitme-menu-item:hover {
+  color: #008674;
+}
+
+.fitme-band:hover {
+  color: rgba(255, 255, 255, 0.788);
+}

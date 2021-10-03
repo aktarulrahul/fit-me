@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Full Spectrum Practice",
+    "img": "https://images.unsplash.com/photo-1552286450-4a669f880062?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHlvZ2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "level": 2,
+    "price": 35,
+    "duration": 60,
+    "rating": 4.5,
+    "reviwer": 276
+  },
+  {
+    "id": 2,
+    "title": "Everyday Flow Practice",
+    "img": "https://images.unsplash.com/photo-1485727749690-d091e8284ef3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fHlvZ2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "level": 1,
+    "price": 25,
+    "duration": 45,
+    "rating": 4.7,
+    "reviwer": 350
+  },
+  {
+    "id": 3,
+    "title": "Power Breakfast Yoga Flow",
+    "img": "https://images.unsplash.com/photo-1510894347713-fc3ed6fdf539?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHlvZ2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "level": 2,
+    "price": 45,
+    "duration": 50,
+    "rating": 4.5,
+    "reviwer": 180
+  },
+  {
+    "id": 4,
+    "title": "45-Minute Clam Strength Flow",
+    "img": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8eW9nYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "level": 1,
+    "price": 55,
+    "duration": 45,
+    "rating": 4.5,
+    "reviwer": 560
+  },
+  {
+    "id": 5,
+    "title": "Tantric Hatha Morning Practice",
+    "img": "https://images.unsplash.com/photo-1554245064-3ab88761ac5d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fHlvZ2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "level": 2,
+    "price": 35,
+    "duration": 45,
+    "rating": 4.2,
+    "reviwer": 221
+  },
+  {
+    "id": 6,
+    "title": "Wake-up Mobility Practice",
+    "img": "https://images.unsplash.com/photo-1588783344727-f67e17b45dfc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDN8fHlvZ2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "level": 1,
+    "price": 25,
+    "duration": 30,
+    "rating": 4.2,
+    "reviwer": 128
+  },
+  {
+    "id": 7,
+    "title": "Level 2 Stretching",
+    "img": "https://images.unsplash.com/flagged/photo-1573556291531-a5d957d7e4e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAzfHx5b2dhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "level": 2,
+    "price": 25,
+    "duration": 45,
+    "rating": 4.5,
+    "reviwer": 211
+  },
+  {
+    "id": 8,
+    "title": "Inner Rhythm Flow",
+    "img": "https://images.unsplash.com/photo-1599447292325-2cffaa79bcbb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE1fHx5b2dhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "level": 2,
+    "price": 45,
+    "duration": 60,
+    "rating": 5,
+    "reviwer": 56
+  },
+  {
+    "id": 9,
+    "title": "Yin Yoga for the Psoas and side body",
+    "img": "https://images.unsplash.com/photo-1603988533324-9e39be986394?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ5fHx5b2dhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "level": 2,
+    "price": 21,
+    "duration": 30,
+    "rating": 4.5,
+    "reviwer": 186
+  }
+]
