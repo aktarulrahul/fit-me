@@ -12,11 +12,9 @@ const Home = () => {
     <div className="Home container">
       <Banner />
       <h1 className="text-center fitme-color my-4">Our Services</h1>
-      <div className="row">
+      <div class="row row-cols-1 row-cols-md-2 g-4">
         {slicedCourse.map((course) => (
-          <div key={course.id} className="col-md-6">
-            <CourseCard course={course} />
-          </div>
+          <CourseCard key={course.id} course={course} />
         ))}
       </div>
     </div>

@@ -5,13 +5,14 @@ import { Link } from 'react-router-dom';
 
 const Banner = () => {
   return (
-    <div className="fitme-header">
+    <div className="fitme-header mt-4">
       <div className="row fitme-banner">
         <div className="col-md-6 my-auto mx-auto">
           <h1 className="fs-1 fw-bold lh-lg fitme-color">Fit Me</h1>
-          <p className="text-uppercase">
-            Yoga is the journey of the self, through the self, to the self.You
-            cannot always control what goes on outside. But you can always
+          <p className="">
+            Yoga is the journey of the self, through the self, to the self.{' '}
+            <br />
+            You cannot always control what goes on outside. But you can always
             control what goes on inside.{' '}
           </p>
           <Link to="/contact">

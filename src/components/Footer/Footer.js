@@ -2,8 +2,30 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <div>
-      <h1>Footer</h1>
+    <div className="container-fluid fitme-bg mt-4">
+      <div className="row p-4 ">
+        <div className="col-6">
+          <p className="fs-1 fw-bold text-white text-center">FIT ME</p>
+          <div className="d-flex justify-content-center text-white fs-3">
+            <i class="fab fa-facebook me-2"></i>
+            <i class="fab fa-instagram-square me-2"></i>
+            <i class="fab fa-youtube me-2"></i>
+            <i class="fab fa-pinterest me-2"></i>
+            <i class="fab fa-twitter-square me-2"></i>
+          </div>
+          <p className="text-white text-center mx-auto mt-2">
+            All Rights Reserved
+          </p>
+        </div>
+        <div className="col-6">
+          <p className="fs-3 fw-bold text-white text-center">Find Us</p>
+          <div className="text-center fs-5 text-white">
+            <i class="fas fa-map-marked-alt"></i> 1234, NY 100
+            <br />
+            <i class="fas fa-phone-volume"></i> +1 6 600 653 23 35
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
