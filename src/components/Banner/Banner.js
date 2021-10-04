@@ -9,7 +9,8 @@ const Banner = (props) => {
       <div className="row fitme-banner">
         <div className="col-md-6 my-auto mx-auto">
           <h1 className="fs-1 fw-bold lh-lg fitme-color">{title}</h1>
-          <p className="">
+          <p>
+            {/* Implement this banner description in a way that if we didn't set the description manually, it will take it's default title */}
             {description ? (
               description
             ) : (

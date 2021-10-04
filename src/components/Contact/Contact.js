@@ -19,6 +19,7 @@ const Contact = () => {
         />
         <div>
           <Form>
+            {/* only form structure are added. no functionality implemented yet */}
             <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
               <Form.Label>Name</Form.Label>
               <Form.Control type="text" placeholder="David" />

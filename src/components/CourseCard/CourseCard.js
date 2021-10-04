@@ -31,6 +31,7 @@ const CourseCard = (props) => {
           </div>
         </div>
         <div className="card-footer text-center">
+          {/* oNo functionality implemented for button */}
           <button className="btn fitme-bg text-white text-uppercase">
             Start Now
           </button>
