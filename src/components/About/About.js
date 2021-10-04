@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Banner from '../Banner/Banner';
-import './About.css';
 import banner from '../../img/banner.svg';
 import aboutTeam from '../../img/aboutTeam.jpg';
 import MemberCard from '../MemberCard/MemberCard';

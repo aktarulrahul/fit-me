@@ -1,5 +1,4 @@
 import React from 'react';
-import './Home.css';
 import CourseCard from '../CourseCard/CourseCard';
 import useCourse from '../../hooks/useCourse';
 import Banner from '../Banner/Banner';
