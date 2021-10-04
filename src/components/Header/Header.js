@@ -4,7 +4,7 @@ import './Header.css';
 
 const Header = () => {
   return (
-    <div className="container">
+    <div className="container my-4">
       <div className="row">
         <div className="col-4 fitme-band-bg">
           <Link to="/" className="fitme-band ">

@@ -12,7 +12,8 @@
   font-weight: bold;
   color: white;
   background-color: #00bfa6;
-  padding: 20px 40px;
+  padding: 10px 35px 20px;
+  clip-path: polygon(0 0, 0% 100%, 100% 75%, 100% 0%);
 }
 
 .fitme-menu-item:hover {
