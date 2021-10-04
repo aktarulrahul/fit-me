@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Full Spectrum Practice",
+    "img": "https://images.unsplash.com/photo-1602192446604-8ba7ee80d252?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEzfHx5b2dhJTIwdGVhY2hlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "role": "Yoga Instructor",
+    "experience": 9
+  },
+  {
+    "id": 2,
+    "name": "Willow",
+    "img": "https://images.unsplash.com/photo-1555435509-c1e95c453525?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODh8fHlvZ2ElMjB0ZWFjaGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "role": "Yoga Instructor",
+    "experience": 5
+  },
+  {
+    "id": 3,
+    "name": "Stella",
+    "img": "https://images.unsplash.com/photo-1566501206188-5dd0cf160a0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHlvZ2ElMjB0ZWFjaGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "role": "Yoga Instructor",
+    "experience": 6
+  },
+  {
+    "id": 4,
+    "name": "Paisleye",
+    "img": "https://images.unsplash.com/photo-1591343395902-1adcb454c4e2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8eW9nYSUyMHRlYWNoZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "role": "Yoga Instructor",
+    "experience": 7
+  },
+  {
+    "id": 5,
+    "name": "Kinsley",
+    "img": "https://images.unsplash.com/photo-1597106647727-7ceaffd1abf7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8eW9nYSUyMHRlYWNoZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "role": "Yoga Instructor",
+    "experience": 8
+  },
+  {
+    "id": 6,
+    "name": "Caroline",
+    "img": "https://images.unsplash.com/photo-1597297260448-3cc8d0a38388?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8eW9nYSUyMHRlYWNoZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "role": "Yoga Instructor",
+    "experience": 3
+  }
+]

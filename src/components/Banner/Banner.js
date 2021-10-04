@@ -1,14 +1,14 @@
 import React from 'react';
 import './Banner.css';
-import banner from '../../img/banner.svg';
 import { Link } from 'react-router-dom';
 
-const Banner = () => {
+const Banner = (props) => {
+  const { title, img } = props;
   return (
     <div className="fitme-header mt-4">
       <div className="row fitme-banner">
         <div className="col-md-6 my-auto mx-auto">
-          <h1 className="fs-1 fw-bold lh-lg fitme-color">Fit Me</h1>
+          <h1 className="fs-1 fw-bold lh-lg fitme-color">{title}</h1>
           <p className="">
             Yoga is the journey of the self, through the self, to the self.{' '}
             <br />
@@ -20,7 +20,7 @@ const Banner = () => {
           </Link>
         </div>
         <div className="col-md-6">
-          <img className="w-100" src={banner} alt="" />
+          <img className="w-100" src={img} alt="" />
         </div>
       </div>
     </div>
