@@ -1,0 +1,9 @@
+.fitme-benefit p {
+  margin: 5px;
+  text-transform: uppercase;
+  background-color: #00bfa6;
+  /* clip-path: polygon(0 0, 10% 100%, 100% 100%, 90% 0%); */
+  color: white;
+  padding: 20px 35px;
+  border-radius: 50%;
+}
