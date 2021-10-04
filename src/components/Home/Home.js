@@ -3,7 +3,7 @@ import CourseCard from '../CourseCard/CourseCard';
 import useCourse from '../../hooks/useCourse';
 import Banner from '../Banner/Banner';
 
-import about from '../../img/about.svg';
+import home from '../../img/about.svg';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 import Benefits from '../Benefits/Benefits';
@@ -16,9 +16,9 @@ const Home = () => {
     <div>
       <Header />
       <div className="Home container">
-        <Banner img={about} title="FIT ME" link="services" />
+        <Banner title="Discover Calmness with Yoga" img={home} link="about" />
         <Benefits />
-        <h1 className="text-center fitme-color my-4">
+        <h1 className="text-center fitme-color my-5">
           Our Programms & Services
         </h1>
         <div className="row row-cols-1 row-cols-md-2 g-4">

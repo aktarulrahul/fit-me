@@ -4,7 +4,7 @@ import benefit from '../../img/benefit.png';
 
 const Benefits = () => {
   return (
-    <div className="my-4 text-center">
+    <div className="my-5 text-center">
       <h1 className="fitme-color">Benefits of Yoga & Fit Me</h1>
       <div className="d-flex">
         <div className="fitme-benefit d-flex flex-column justify-content-between ms-4 fs-5">

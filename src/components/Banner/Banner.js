@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Banner = (props) => {
   const { title, img, description, link } = props;
   return (
-    <div className="fitme-header mt-4">
+    <div className="fitme-header mt-5">
       <div className="row fitme-banner">
         <div className="col-md-6 my-auto mx-auto">
           <h1 className="fs-1 fw-bold lh-lg fitme-color">{title}</h1>

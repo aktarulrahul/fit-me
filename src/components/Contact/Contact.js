@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <div>
       <Header />
-      <div className="container my-4">
+      <div className="container my-5">
         <Banner
           title="Contact US"
           img={contactUs}
